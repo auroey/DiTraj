@@ -80,6 +80,16 @@ For more examples, please refer to our project page (https://xduzhangjiayu.githu
 - [ ] Release Gradio demo with user-friendly interaction
 
 # 🚀 Getting Started
+
+## Single-GPU reproduction in this fork
+
+The optional low-memory runner uses the current checkout and a private environment.
+See [RTX 4090 setup and reproduction](docs/REPRODUCTION_4090.md) for the recorded
+baseline, setup/download/launch commands, and verification limits; see
+[Capabilities and limits](docs/CAPABILITIES_AND_LIMITS.md) for supported inputs,
+known defects, and untested boundaries. The original instructions below remain
+unchanged.
+
 ## Environment Requirement
 Clone the repo:
 ```

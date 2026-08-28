@@ -1,0 +1,25 @@
+# Runtime data and local credentials must not enter this repository.
+.repro/
+.runtime/
+.venv/
+.download-venv/
+models/
+outputs/
+results/
+logs/
+cache/
+diffusers/
+__pycache__/
+*.py[cod]
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.incomplete
+*.aria2
+*.log
+*.metrics.json
+.env
+.env.*
+# Upstream's already tracked showcase videos remain in Git history.
+*.mp4

@@ -1,0 +1,6 @@
+repro/** text eol=lf
+tests/** text eol=lf
+docs/** text eol=lf
+requirements-4090.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
